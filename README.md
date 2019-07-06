@@ -1,4 +1,4 @@
-# CSS3 Media Queries Template By Panda279TV
+# CSS3 Media Queries Template And Docs By Panda279TV
 
 ###### The Best CSS3 Media Queries Template! Just Copy and Start!
 
