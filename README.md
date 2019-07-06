@@ -76,7 +76,7 @@ https://caniuse.com/#feat=css-mediaqueries
 
 ----------
 
-## Definition and Usage
+## Definition And Usage
 The @media rule is used in media queries to apply different styles for different media types/devices.
 
 Media queries can be used to check many things, such as:
@@ -110,7 +110,7 @@ user-scalable="no" | prevents the user from enlarging or reducing the page.
 
 ----------
 
-## Most used Tags
+## Most Used Tags
 
 | Value |  | Description |
 | :--- |:---:| :--- |
