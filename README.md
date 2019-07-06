@@ -1,7 +1,8 @@
-# CSS-Media-Queries-Template By Panda279TV
+# CSS3 Media Queries Template By Panda279TV
+
 ###### The Best CSS Media Queries Template! Just Copy and Start!
 
-###### In this Readme some text are copied from W3Schools! = https://www.w3schools.com/
+###### In this ReadMe some text are copied from W3Schools, Thanks! = https://www.w3schools.com/
 
 ----------
 
@@ -25,7 +26,7 @@ https://css-tricks.com/?s=media+queries&orderby=relevance&post_type=post%2Cpage%
 
 ----------
 
-## Can I Use Media Queries On Browsers
+## Can I Use Media Queries On Browsers?
 
 https://caniuse.com/#feat=css-mediaqueries
 
