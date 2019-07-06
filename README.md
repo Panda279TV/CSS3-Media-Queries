@@ -99,9 +99,12 @@ user-scalable="no" | prevents the user from enlarging or reducing the page.
 | ,(comma) |  | Commas are used to combine multiple media queries into a single rule. |
 | not |  | The not keyword reverts the meaning of an entire media query. |
 | only |  | The only keyword prevents older browsers that do not support media queries with media features from applying the specified styles. It has no effect on modern browsers. |
+| handheld |  | Used for handheld devices |
 | print |  | Used for printers |
+| projection |  | Used for projection |
 | screen |  | Used for computer screens, tablets, smart-phones etc |
 | spech |  | Used for screenreaders that "reads" the page out loud |
+| tv |  | Used for tvs devices |
 
 #### Media Features
 | Value |  | Description |
@@ -112,6 +115,8 @@ user-scalable="no" | prevents the user from enlarging or reducing the page.
 | color |  | The number of bits per color component for the output device |
 | color-gamut |  | The approximate range of colors that are supported by the user agent and output device (added in Media Queries Level 4) |
 | color-index |  | The number of colors the device can display |
+| device-width |  | The device width |
+| forced-colors |  | 	Detect whether user agent restricts color pallete (added in Media Queries Level 5) |
 | grid |  | Whether the device is a grid or bitmap |
 | height |  | The viewport height |
 | hover |  | Does the primary input mechanism allow the user to hover over elements? (added in Media Queries Level 4) |
@@ -131,24 +136,22 @@ user-scalable="no" | prevents the user from enlarging or reducing the page.
 | min-monochrome |  | The minimum number of bits per "color" on a monochrome (greyscale) device |
 | min-resolution |  | The minimum resolution of the device, using dpi or dpcm |
 | min-width |  | The minimum width of the display area, such as a browser window |
+| min-device-width |  | The min device width |
+| max-device-width |  | The max device width |
 | monochrome |  | The number of bits per "color" on a monochrome (greyscale) device |
 | orientation |  | 	The orientation of the viewport (landscape or portrait mode) |
 | overflow-block |  | How does the output device handle content that overflows the viewport along the block axis (added in Media Queries Level 4) |
 | overflow-inline |  | 	Can content that overflows the viewport along the inline axis be scrolled (added in Media Queries Level 4) |
 | pointer |  | 	Is the primary input mechanism a pointing device, and if so, how accurate is it? (added in Media Queries Level 4) |
+| prefers-reduced-motion |  | The user prefers less motion on the page (added in Media Queries Level 5) |
+| prefers-reduced-transparency |  | The user prefers reduced transparency (added in Media Queries Level 5) |
+| prefers-contrast |  | Detects if the user has requested the system increase or decrease the amount of contrast between adjacent colors (added in Media Queries Level 5) |
+| prefers-color-scheme |  | 	Detect if the user prefers a light or dark color scheme (added in Media Queries Level 5) |
 | resolution |  | The resolution of the output device, using dpi or dpcm |
 | scan |  | The scanning process of the output device |
 | scripting |  | 	Is scripting (e.g. JavaScript) available? (added in Media Queries Level 4) |
 | update |  | How quickly can the output device modify the appearance of the content (added in Media Queries Level 4) |
 | width |  | The viewport width |
-| device-width |  | The device width |
-| min-device-width |  | The min device width |
-| max-device-width |  | The max device width |
-| prefers-reduced-motion |  | The user prefers less motion on the page (added in Media Queries Level 5) |
-| prefers-reduced-transparency |  | The user prefers reduced transparency (added in Media Queries Level 5) |
-| prefers-contrast |  | Detects if the user has requested the system increase or decrease the amount of contrast between adjacent colors (added in Media Queries Level 5) |
-| prefers-color-scheme |  | 	Detect if the user prefers a light or dark color scheme (added in Media Queries Level 5) |
-| forced-colors |  | 	Detect whether user agent restricts color pallete (added in Media Queries Level 5) |
 
 ----------
 
