@@ -152,5 +152,5 @@ user-scalable="no" | prevents the user from enlarging or reducing the page.
 
 ----------
 
-#### Thanks a lot and I hope I could help something with all the media queries stuff.
-#### greetings
+#### Thank you very much. I hope I could help something with all the media queries.
+#### greetings Panda
