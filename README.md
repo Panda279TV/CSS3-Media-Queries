@@ -200,4 +200,4 @@ user-scalable="no" | prevents the user from enlarging or reducing the page.
 ----------
 
 #### Thank you very much. I hope I could help something with all the media queries.
-#### greetings Panda
+### greetings Panda
