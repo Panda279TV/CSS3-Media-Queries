@@ -1,40 +1,40 @@
-/* Desktop = Width 1281px to higher resolution desktops */
-
-@media (min-width: 1281px) {
-  //CSS
+/* Desktop = Width 1824px To Higher Resolution Desktops */
+@media (min-width: 1824px) {
+/* Styles */
 }
 
 
-/* Laptops and Desktops = Width 1025px to 1280px */
+/* Desktop = Width 1281px To 1823px */
+@media (min-width: 1281px) and (max-width: 1823px) {
+/* Styles */
+}
 
+
+/* Laptops and Desktops = Width 1025px To 1280px */
 @media (min-width: 1025px) and (max-width: 1280px) {
-  //CSS
+/* Styles */
 }
 
 
-/* Tablets and Ipads (Portrait) = Width 768px to 1024px */
-
-@media (min-width: 768px) and (max-width: 1024px) {
-  //CSS
+/* Tablets and Ipads (Portrait) = Width 768px To 1024px */
+@media (min-width: 768px) and (max-width: 1024px) and (orientation : portrait) {
+/* Styles */
 }
 
 
-/* Tablets and Ipads (Landscape) = Width 768px to 1024px */
-
+/* Tablets and Ipads (Landscape) = Width 768px To 1024px */
 @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
-  //CSS
+/* Styles */
 }
 
 
-/* Low Resolution Tablets and Mobiles (Landscape) = Width 481px to 767px */
-
+/* Low Resolution Tablets And Mobiles (Landscape) = Width 481px To 767px */
 @media (min-width: 481px) and (max-width: 767px) {
-  //CSS
+/* Styles */
 }
 
 
-/* Most of the Smartphones Mobiles (Portrait) = Width 320px to 479px */
-
+/* Most Of The Smartphones Mobiles (Portrait) = Width 320px To 479px */
 @media (min-width: 320px) and (max-width: 480px) {
-  //CSS
+/* Styles */
 }
