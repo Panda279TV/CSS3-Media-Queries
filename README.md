@@ -103,11 +103,11 @@ In addition to media types, there are also media features. Media features provid
 
 content="width=device-width" sets the width of the screen for mobile devices to the actual resolution in width.
 
-initial-scale | This defines the scale of the website, This parameter sets the initial zoom level, which means 1 CSS pixel is equal to 1 viewport pixel. This parameter help when you're changing orientation, or preventing default zooming. Without this parameter, responsive site won't work.
+initial-scale=1.0 | This defines the scale of the website, This parameter sets the initial zoom level, which means 1 CSS pixel is equal to 1 viewport pixel. This parameter help when you're changing orientation, or preventing default zooming. Without this parameter, responsive site won't work.
 
-maximum-scale | Maximum-scale defines the maximum zoom. When you access the website, top priority is maximum-scale=1, and it won’t allow the user to zoom.
+maximum-scale=1.0 | Maximum-scale defines the maximum zoom. When you access the website, top priority is maximum-scale=1, and it won’t allow the user to zoom.
 
-minimum-scale | Minimum-scale defines the minimum zoom. This works the same as above, but it defines the minimum scale. This is useful, when maximum-scale is large, and you want to set minimum-scale.
+minimum-scale=1.0 | Minimum-scale defines the minimum zoom. This works the same as above, but it defines the minimum scale. This is useful, when maximum-scale is large, and you want to set minimum-scale.
 
 user-scalable="no" | User-scalable assigned to 1.0 means the website is allowing the user to zoom in or zoom out. But if you assign it to user-scalable=no, it means the website is not allowing the user to zoom in or zoom out.
 
