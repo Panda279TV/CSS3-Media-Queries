@@ -49,7 +49,7 @@ In addition to media types, there are also media features. Media features provid
 
 ----------
 
-## Media Querie Head Tag
+## Head Tag
 
 #### The media queries will only work if this line has been included in the head tag of the HTML Structure!
 
@@ -66,10 +66,10 @@ user-scalable="no" | prevents the user from enlarging or reducing the page.
 
 ----------
 
-## Most used Media Queries Tags
+## Most used Tags
 
 | Value |  | Description |
-| ------------- |:--:| ------------- |
+| :--- |:---:| :--- |
 | all |  | Default. Used for all media type devices |
 | and |  | The and keyword combines a media feature with a media type or other media features. |
 | ,(comma) |  | Commas are used to combine multiple media queries into a single rule. |
@@ -89,11 +89,11 @@ user-scalable="no" | prevents the user from enlarging or reducing the page.
 
 ----------
 
-## Media Queries Tags
+## All Tags
 
 #### Media Types
 | Value |  | Description |
-| ------------- |:--:| ------------- |
+| :--- |:---:| :--- |
 | all |  | Default. Used for all media type devices |
 | and |  | The and keyword combines a media feature with a media type or other media features. |
 | ,(comma) |  | Commas are used to combine multiple media queries into a single rule. |
@@ -105,7 +105,7 @@ user-scalable="no" | prevents the user from enlarging or reducing the page.
 
 #### Media Features
 | Value |  | Description |
-| ------------- |:--:| ------------- |
+| :--- |:---:| :--- |
 | any-hover |  | Does any available input mechanism allow the user to hover over elements? (added in Media Queries Level 4) |
 | any-pointer |  | Is any available input mechanism a pointing device, and if so, how accurate is it? (added in Media Queries Level 4) |
 | aspect-ratio |  | The ratio between the width and the height of the viewport |
@@ -152,5 +152,5 @@ user-scalable="no" | prevents the user from enlarging or reducing the page.
 
 ----------
 
-###### Thanks a lot and I hope I could help something with all the media queries stuff.
-###### greetings
+#### Thanks a lot and I hope I could help something with all the media queries stuff.
+#### greetings
