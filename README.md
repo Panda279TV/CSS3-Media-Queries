@@ -202,5 +202,5 @@ user-scalable="no" | User-scalable assigned to 1.0 means the website is allowing
 
 ----------
 
-#### Thank you very much. I hope I could help something with all the media queries.
+#### Thank you very much. I hope I could help with all the media queries.
 ### greetings Panda
