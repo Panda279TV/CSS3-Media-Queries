@@ -95,13 +95,13 @@ In addition to media types, there are also media features. Media features provid
 
 ## Head Tag
 
-#### The media queries will only work if this line has been included in the head tag of the HTML Structure!
+#### The media queries will only work if this line has been included in the Head Tag of the HTML Structure!
 
 `<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">`
 
 
 
-content="width=device-width" sets the width of the screen for mobile devices to the actual resolution in width.
+content="width=device-width" | Sets the width of the screen for mobile devices to the actual resolution in width.
 
 initial-scale=1.0 | This defines the scale of the website, This parameter sets the initial zoom level, which means 1 CSS pixel is equal to 1 viewport pixel. This parameter help when you're changing orientation, or preventing default zooming. Without this parameter, responsive site won't work.
 
