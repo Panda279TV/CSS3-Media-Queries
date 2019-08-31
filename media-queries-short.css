@@ -1,0 +1,19 @@
+/* Start from Width 1282px */
+@media only screen and (max-width: 1282px){
+/* Styles */
+}
+
+/* Width 992px To 1281px */
+@media only screen and (min-width: 1281px){
+/* Styles */
+}
+
+/* Width 601px To 992px */
+@media only screen and (min-width: 992px){
+/* Styles */
+}
+
+/* Width 0px To 601px */
+@media only screen and (min-width: 600px){
+/* Styles */
+}
