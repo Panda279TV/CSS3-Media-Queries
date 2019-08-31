@@ -118,7 +118,7 @@ user-scalable="no" | User-scalable assigned to 1.0 means the website is allowing
 ## Most Used Tags
 
 | Value |  | Description |
-| :--- |:---:| :--- |
+| :------ |:------:| :------ |
 | all |  | Default. Used for all media type devices |
 | and |  | The and keyword combines a media feature with a media type or other media features. |
 | ,(comma) |  | Commas are used to combine multiple media queries into a single rule. |
@@ -142,7 +142,7 @@ user-scalable="no" | User-scalable assigned to 1.0 means the website is allowing
 
 #### Media Types
 | Value |  | Description |
-| :--- |:---:| :--- |
+| :------ |:------:| :------ |
 | all |  | Default. Used for all media type devices |
 | and |  | The and keyword combines a media feature with a media type or other media features. |
 | ,(comma) |  | Commas are used to combine multiple media queries into a single rule. |
@@ -157,7 +157,7 @@ user-scalable="no" | User-scalable assigned to 1.0 means the website is allowing
 
 #### Media Features
 | Value |  | Description |
-| :--- |:---:| :--- |
+| :------ |:------:| :------ |
 | any-hover |  | Does any available input mechanism allow the user to hover over elements? (added in Media Queries Level 4) |
 | any-pointer |  | Is any available input mechanism a pointing device, and if so, how accurate is it? (added in Media Queries Level 4) |
 | aspect-ratio |  | The ratio between the width and the height of the viewport |
