@@ -1,8 +1,8 @@
 # CSS3 Media Queries Template And Docs By Panda279TV
 
-###### The Best CSS3 Media Queries Template And Docs! Just Copy And Start Or Download And Start!
+#### The Best CSS3 Media Queries Template And Docs! Just Copy And Start Or Download And Start!
 
-###### In this ReadMe some text are copied from W3Schools, Thanks! = https://www.w3schools.com/
+##### In this ReadMe some text are copied from W3Schools, Thanks! = https://www.w3schools.com/
 
 ----------
 
